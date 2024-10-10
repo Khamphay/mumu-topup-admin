@@ -1,0 +1,103 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true,
+    "editor.formatOnType": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "editor.formatOnSave": true,
+    "redhat.telemetry.enabled": true,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        },
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "html.trace.server": "verbose",
+    "[javascript]": {
+        "javascript.autoClosingTags": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editorAssociations": {
+        "*.html": "default"
+    },
+    "explorer.confirmDelete": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.linkedEditing": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.fontFamily": "Menlo, Monaco,Consolas, 'Courier New', monospace, Noto Sans Lao",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "files.autoSaveDelay": 2000,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "githubPullRequests.createOnPublishBranch": "never",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "githubPullRequests.pullBranch": "never",
+    "window.zoomLevel": 0,
+    "files.associations": {
+        "*.js": "javascript",
+        "www": "javascript"
+    },
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "typescript.tsserver.enableTracing": true,
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    "typescript.tsserver.log": "off",
+    "[http]": {
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        }
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "html.format.wrapLineLength": 250,
+    "js/ts.implicitProjectConfig.target": "ESNext",
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "git.openRepositoryInParentFolders": "never",
+    "editor.formatOnPaste": true,
+    "prettier.trailingComma": "none",
+    "eslint.problems.shortenToSingleLine": true,
+    "prettier.bracketSameLine": true,
+    "eslint.format.enable": true,
+    "eslint.onIgnoredFiles": "warn",
+    "errorLens.excludeBySource": [
+        "Pylance(reportGeneralTypeIssues)",
+        "eslint(vue/multi-word-component-names)",
+        "Pylance(reportUnboundVariable)"
+    ],
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[stylelint]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "prettier.printWidth": 250,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.autoIndent": "full"
+}
